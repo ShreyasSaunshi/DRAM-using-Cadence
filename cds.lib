@@ -1,0 +1,9 @@
+SOFTINCLUDE /home/install/IC618/share/cdssetup/cds.lib
+DEFINE dramcell /home/student/Desktop/dramcell/dramcell
+DEFINE 2tdram /home/student/Desktop/dramcell/2tdram
+DEFINE 3tdram /home/student/Desktop/dramcell/3tdram
+DEFINE 3tnew /home/student/Desktop/dramcell/3tnew
+DEFINE 3t /home/student/Desktop/dramcell/3t
+DEFINE 3td /home/student/Desktop/dramcell/3td
+DEFINE 2td /home/student/Desktop/dramcell/2td
+DEFINE 4t /home/student/Desktop/dramcell/4t
